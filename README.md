@@ -29,7 +29,7 @@ This is a fullstack project that includes a **React frontend** and an **Express 
 ## Technologies Used
 
 - Frontend: React, Axios, Vite, tailwindcss, Redux
-- Backend: Express, MongoDB with Mongoose, JWT, bcryptjs
+- Backend: Express, MongoDB with Mongoose, JWT, bcryptjs, cors, body-parser
 
 ## Getting Started
 
