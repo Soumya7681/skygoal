@@ -28,7 +28,7 @@ This is a fullstack project that includes a **React frontend** and an **Express 
   
 ## Technologies Used
 
-- Frontend: React, Axios
+- Frontend: React, Axios, Vite, tailwindcss, Redux
 - Backend: Express, MongoDB with Mongoose, JWT, bcryptjs
 
 ## Getting Started
@@ -42,17 +42,17 @@ This is a fullstack project that includes a **React frontend** and an **Express 
 
 1. **Clone the Repository**:
 
-   git clone https://Soumya7681@bitbucket.org/st-technology/skygoal.git
+   git clone https://github.com/Soumya7681/skygoal.git
    cd your-repo
 
 2. **Install Dependencies**:
    - Install frontend dependencies:
-     cd client
-     npm install
+     - cd client
+     - npm install
 
    - Install backend dependencies:
-     cd ../server
-     npm install
+     - cd ../server
+     - npm install
 
 3. **Environment Variables**:
    - Create `.env` files in `client` directory:
@@ -64,15 +64,15 @@ This is a fullstack project that includes a **React frontend** and an **Express 
 ### Running the Project
 
 1. **Start the Backend**:
-   cd server
-   npm start
-   The server will run on `http://localhost:5000`.
+   - cd server
+   - npm start
+   - The server will run on `http://localhost:5000`.
 
 2. **Start the Frontend**:
 
-   cd client
-   npm run dev
-   The frontend will run on `http://localhost:5173`.
+   - cd client
+   - npm run dev
+   - The frontend will run on `http://localhost:5173`.
 
 
 
