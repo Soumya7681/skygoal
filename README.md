@@ -43,7 +43,7 @@ This is a fullstack project that includes a **React frontend** and an **Express 
 1. **Clone the Repository**:
 
    git clone https://github.com/Soumya7681/skygoal.git
-   cd your-repo
+   cd skygoal
 
 2. **Install Dependencies**:
    - Install frontend dependencies:
